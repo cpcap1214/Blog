@@ -4,6 +4,7 @@ date: 2025-04-20
 tags: ['LeetCode', 'Binary Search ']
 draft: false
 summary: 這題是典型Binary search的題目，重點是要考慮區間的取值。
+type: Blog
 ---
 
 # Leetcode 704. Binary Search 解法筆記
