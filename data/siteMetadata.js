@@ -6,7 +6,7 @@ const siteMetadata = {
   description: '我是一位就讀於台大資管的大一生，這個部落格會記錄我學習程式、演算法與開發的過程。',
   language: 'zh-TW',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://justin-blog.vercel.app',
+  siteUrl: 'https://blog-omega-gold-68.vercel.app/',
   siteRepo: 'https://github.com/cpcap1214/Blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
