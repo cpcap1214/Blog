@@ -27,7 +27,7 @@ Explanation: 9 exists in nums and its index is 4
 區間範圍會跟左右界怎麼更新有關，所以要固定住一種區間。
 我一開始是用左閉右閉，但下面我兩種做法都會寫。
 ### 左閉右閉
-```cpp=
+```cpp
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
@@ -52,7 +52,7 @@ public:
 };
 ```
 ### 左閉右開
-```cpp=
+```cpp
 class Solution {
 public:
     int search(vector<int>& nums, int target) {

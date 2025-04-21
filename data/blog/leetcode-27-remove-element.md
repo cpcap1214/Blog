@@ -48,7 +48,7 @@ Two pointers簡單來說就是利用兩個指針，把需要用兩層for迴圈�
 
 ### 暴力解
 
-```cpp=
+```cpp
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
@@ -70,7 +70,7 @@ public:
 
 ### Two pointers
 
-```cpp=
+```cpp
 class Solution {
 public:
     int removeElement(vector<int>& nums, int target) {
@@ -86,7 +86,7 @@ public:
 ```
 
 ### function解
-```cpp=
+```cpp
 class Solution {
 public:
     int removeElement(vector<int>& nums, int target) {

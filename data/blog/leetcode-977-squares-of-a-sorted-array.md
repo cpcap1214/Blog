@@ -32,7 +32,7 @@ After sorting, it becomes [0,1,9,16,100].
 ## 實作
 
 ### 暴力解
-```cpp=
+```cpp
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
@@ -48,7 +48,7 @@ public:
 };
 ```
 ### Two pointers
-```cpp=
+```cpp
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
