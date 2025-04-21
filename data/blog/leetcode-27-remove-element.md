@@ -1,6 +1,6 @@
 ---
 title: Leetcode 27. Remove Element 解法筆記
-date: 2025-04-21
+date: '2025-04-21T10:00:00+08:00'
 tags: ['LeetCode', 'Two Pointers']
 draft: false
 summary: 這題是很經典的Two pointers的應用

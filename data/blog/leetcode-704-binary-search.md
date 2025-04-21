@@ -1,6 +1,6 @@
 ---
 title: Leetcode 704. Binary Search 解法筆記
-date: 2025-04-20
+date: '2025-04-20T10:00:00+08:00'
 tags: ['LeetCode', 'Binary Search']
 draft: false
 summary: 這題是典型Binary search的題目，重點是要考慮區間的取值。
