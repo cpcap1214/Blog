@@ -1,5 +1,8 @@
 {
-  "leetcode": 3,
-  "two-pointers": 2,
+  "leetcode": 9,
+  "linked-list": 4,
+  "simulation": 1,
+  "two-pointers": 3,
+  "sliding-window": 1,
   "binary-search": 1
 }
